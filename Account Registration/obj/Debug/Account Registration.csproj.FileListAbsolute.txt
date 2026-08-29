@@ -1,0 +1,11 @@
+D:\Users\Janel\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+D:\Users\Janel\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+D:\Users\Janel\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmRegistration.resources
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+D:\Users\Janel\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
