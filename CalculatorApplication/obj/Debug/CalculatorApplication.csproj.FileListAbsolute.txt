@@ -1,0 +1,10 @@
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.FrmCalculator.resources
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\Users\Janel\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
