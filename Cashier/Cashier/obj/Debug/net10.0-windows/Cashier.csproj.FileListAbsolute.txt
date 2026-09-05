@@ -1,0 +1,17 @@
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.CashierWIndowQueue.resources
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.QueuingFrom.resources
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.csproj.GenerateResource.cache
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.AssemblyInfoInputs.cache
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.AssemblyInfo.cs
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.csproj.CoreCompileInputs.cache
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\bin\Debug\net10.0-windows\Cashier.exe
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\bin\Debug\net10.0-windows\Cashier.deps.json
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\bin\Debug\net10.0-windows\Cashier.runtimeconfig.json
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\bin\Debug\net10.0-windows\Cashier.dll
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\bin\Debug\net10.0-windows\Cashier.pdb
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.dll
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\refint\Cashier.dll
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.pdb
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\Cashier.genruntimeconfig.cache
+C:\Users\peralta.420141\source\repos\Cashier\Cashier\obj\Debug\net10.0-windows\ref\Cashier.dll
